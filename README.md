@@ -47,7 +47,3 @@ https://github.com/Sou-786/Black_Friday_BI/blob/main/WireFrame.pdf
 
 - [@Sou-786](https://www.github.com/Sou-786)
  
-## You tube Link
- 
-  
-
